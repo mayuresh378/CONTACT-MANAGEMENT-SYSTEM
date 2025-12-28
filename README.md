@@ -98,5 +98,4 @@ python index.py
 This project is created for learning and practice purposes and demonstrates real-world desktop application development using Python.
 
 
-Just tell me 😊
 
