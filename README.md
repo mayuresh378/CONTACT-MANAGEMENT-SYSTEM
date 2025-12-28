@@ -47,7 +47,7 @@ This application allows users to **add, view, update, and delete contacts** thro
 2️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/your-username/contact-management-system.git
+git clone https://github.com/mayuresh378/contact-management-system.git
 ```
 
 3️⃣ Navigate to the project folder
